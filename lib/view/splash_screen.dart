@@ -17,7 +17,7 @@ class SplashScreen extends StatelessWidget {
     });
     return Scaffold(
       body: Center(
-        child: Image.asset('assets/images/sms.png'),
+        child: Image.asset('image/sms.png'),
       ),
     );
   }
